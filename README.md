@@ -5,7 +5,7 @@
 #### *September, 2020*
 
 <br>
-<small>This project is done as part of the course *Data Analysis with Python: Zero to Pandas* , lectured by Aakash N. S., and hosted on https://jovian.ml.</small>
+<small>This project is done as part of the course <i>Data Analysis with Python: Zero to Pandas</i> , lectured by Aakash N. S., and hosted on https://jovian.ml.</small>
 
 
 ### Context <br>
