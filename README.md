@@ -1,8 +1,3 @@
-# Chernobyl-Analysis
-My first Python/Pandas project.
-
-# <br>
-
 # Analysis of the Chernobyl Disaster influence in Air Contamination
 
 ### Anderson Alves, PhD
