@@ -32,6 +32,6 @@ This dataset presents concentration of Iodine-131 (I-131), Caesium-134 (Cs-134) 
   -  Cs-134 concentration in Bq/m3 (aerosol particles)
   -  Cs-137 concentration in Bq/m3 (aerosol particles)
   
-### Acknowledgements
+### Acknowledgments
 
-The dataset was extracted from REM data bank at CEC Joint Research Centre Ispra. The data was downloaded from Kaggle's data bank and is also available on the JRC Directorate for Nuclear Safety and Security.
+The dataset was extracted from the REM data bank at CEC Joint Research Centre Ispra. The data was downloaded from Kaggle's data bank and is also available on the JRC Directorate for Nuclear Safety and Security.
