@@ -7,6 +7,7 @@
 <br>
 <small>This project is done as part of the course <i>Data Analysis with Python: Zero to Pandas</i> , lectured by Aakash N. S., and hosted on https://jovian.ai.</small>
 
+Article published in https://towardsdatascience.com/analysis-of-the-chernobyl-disaster-influence-in-air-contamination-d7f674d84827.
 
 ### Context <br>
 
